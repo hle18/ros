@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  imProc_maxEntropy.cpp
+c:\users\photonics\onedrive\research\surgical navigation\3d_structured_illumination\nirtracking\testmaxentropy\improc_maxentropy\improc_maxentropy\improc_maxentropy.cpp(35): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  imProc_maxEntropy.vcxproj -> C:\Users\Photonics\OneDrive\Research\Surgical navigation\3d_Structured_Illumination\NIRtracking\testMaxEntropy\imProc_maxEntropy\x64\Debug\imProc_maxEntropy.exe
+  imProc_maxEntropy.vcxproj -> C:\Users\Photonics\OneDrive\Research\Surgical navigation\3d_Structured_Illumination\NIRtracking\testMaxEntropy\imProc_maxEntropy\x64\Debug\imProc_maxEntropy.pdb (Full PDB)
